@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.elementor-column {
+    position: relative;
+    min-height: 1px;
+    display: flex;
+}
+.contact_form {
+    padding: 10px;
+}
+.elementor *, .elementor :after, .elementor :before {
+    box-sizing: border-box;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.elementor-element {
+    --widgets-spacing: 0px;
+}
+.elementor-element, .elementor-lightbox {
+    --swiper-theme-color: #000;
+    --swiper-navigation-size: 44px;
+    --swiper-pagination-bullet-size: 6px;
+    --swiper-pagination-bullet-horizontal-gap: 6px;
+}
+element.style {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+.elementor *, .elementor :after, .elementor :before {
+    box-sizing: border-box;
+}
+p {
+    margin-bottom: 10px;
+}
+widget_search input[type=text].searchform-s, .woocommerce div.elementor .the7-elementor-widget form.cart table.variations td.value select, .wpcf7-number, input[type=text]:not(.elementor-field):not(.searchform-s), input[type=search]:not(.elementor-field), input[type=tel]:not(.elementor-field), input[type=url]:not(.elementor-field), input[type=email]:not(.elementor-field), input[type=number]:not(.elementor-field), input[type=date]:not(.elementor-field), input[type=range]:not(.elementor-field), input[type=password]:not(.elementor-field), select:not(.elementor-field):not(.elementor-field-textual), textarea:not(.elementor-field) {
+    margin-bottom: 10px;
+    border-style: solid;
+    box-sizing: border-box;
+}
+.contact_form input[type=text], input[type=number], select {
+    border: #ccc solid 1px;
+}
+.contact_form input[type=text], input[type=email], .contact_form input[type=number], .contact_form select, .contact_form input[type=submit] {
+    width: 100%;
+}
+.elementor a {
+    box-shadow: none;
+    text-decoration: none;
+}
+.elementor *, .elementor :after, .elementor :before {
+    box-sizing: border-box;
+}
+a, a:hover {
+    color: #deff07;
+}
+.elementor *, .elementor :after, .elementor :before {
+    box-sizing: border-box;
+}
+p {
+    margin-bottom: 10px;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.elementor-element {
+    --widgets-spacing: 0px;
+}
+.elementor-element, .elementor-lightbox {
+    --swiper-theme-color: #000;
+    --swiper-navigation-size: 44px;
+    --swiper-pagination-bullet-size: 6px;
+    --swiper-pagination-bullet-horizontal-gap: 6px;
+}
+mec-event-footer .mec-booking-button, .dt-form button, #page .widget .dt-form .dt-btn, .widget .dt-form .dt-btn, input[type="reset"], .wpcf7-submit, .nsu-submit, .dt-wc-btn, input#place_order, .woocommerce-Reviews .submit:not(.box-button), input.button, input[name="save_address"], .wc-layout-list .woo-buttons a, .post-password-form input[type="submit"], .mc4wp-form input[type="submit"], div.mc4wp-form button[type="submit"], .tml-submit-wrap input[type="submit"], .wpcf7-form input[type="submit"], input[type="submit"]:not([name="update_cart"]), .woocommerce-widget-layered-nav-dropdown__submit, .give-btn.give-btn-reveal, .give-submit.give-btn, .wc-block-filter-submit-button {
+    color: #000;
+    background:#deff07 ;
+}

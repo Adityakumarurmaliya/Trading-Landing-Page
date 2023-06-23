@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 100%;
+  position: relative;
+  margin: 0 auto;
+  padding: 100px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  /* border: 1px solid #ccc; */
+  border:2%;
+}
+
+.curve-button {
+  width: 100%;
+  
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 50px;
+  border: none;
+  background-color: #4CAF50;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.curve-button:hover {
+  background-color: #45a049;
+}
