@@ -150,9 +150,3 @@ input[type="submit"]:not([name="update_cart"]),
   background: #deff07;
 }
 
-.btn-style {
-    position: fixed;
-    top:20px;
-    right:0;
-    margin-right: 20px;
-}
