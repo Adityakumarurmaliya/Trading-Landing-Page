@@ -256,3 +256,19 @@ display: none;
     display: none;
   }
 }
+@media (max-width:991px) {
+ .show-on-small {
+    display: block;
+  }
+
+  .hide-on-small {
+    display: none;
+  }
+}
+
+@media (max-width: 1024px){
+.elementor-section .elementor-container {
+    flex-wrap:nowrap;
+    
+}
+}
